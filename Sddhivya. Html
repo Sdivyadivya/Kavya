@@ -106,7 +106,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./IMG-20230831-WA0002" alt="Your Profile Picture" class="profile-picture">
+            <img src="IMG-20230831-WA0002.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>DHIVYA</h1>
             <p>software developer</p>
         </div>
